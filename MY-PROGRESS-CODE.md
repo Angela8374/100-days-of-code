@@ -11,9 +11,9 @@
 ## 100 Days Of Code - Log 
 
 **DAY 1: ---> 11_april_2022, monday**
-**Today's Progress: -->** Practicing JavaScript Arrays 
-**Thougths: ---------->** Begging challenge   
+- **Today's Progress: -->** Practicing JavaScript Arrays 
+- **Thougths: ---------->** Begging challenge   
 
 **DAY 2: ---> 12_april_2022, tuesday**
-**Today's Progress: -->** Today is the moment of functions in JavaScript 
-**Thoughts: ---------->** Continuing day a day, step by step
+- **Today's Progress: -->** Today is the moment of functions in JavaScript 
+- **Thoughts: ---------->** Continuing day a day, step by step
