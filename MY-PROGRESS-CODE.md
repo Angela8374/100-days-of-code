@@ -9,11 +9,11 @@
 2. Tweet my progress every day with the hashtag #100DaysOfCode.
 
 ## 100 Days Of Code - Log 
-| :---: |
-**DAY 1: 11_april_2022, monday** 
+
+**DAY 1: ---> 11_april_2022, monday**
 **Today's Progress: -->** Practicing JavaScript Arrays 
-**Thougths: ---------->** Begging challege   
-| :---: |
-**DAY 2: 12_april_2022, tuesday**
+**Thougths: ---------->** Begging challenge   
+
+**DAY 2: ---> 12_april_2022, tuesday**
 **Today's Progress: -->** Today is the moment of functions in JavaScript 
 **Thoughts: ---------->** Continuing day a day, step by step
