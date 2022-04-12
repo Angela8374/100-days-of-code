@@ -7,7 +7,15 @@
 ### The main rules are two:
 1. Code at least one hour every day for the next 100 days, with the possibility of failure one time in 15 days
 2. Tweet my progress every day with the hashtag #100DaysOfCode.
-   
-| Day | DD_MM_YY | Description & Progress |
-| :--: | :-----: | :-------: |
-| 1. | 11_04_22 | Practicando Arrays JavaScript  |   
+
+| 100 Days Of Code - Log |
+| :-----: | 
+| Day - DD_MM_YYYY | Description & Progress |
+| :-----: | :-------: |
+| **Day 1: 11_april_2022, monday** | 
+*Today's Progress:* Practicing JavaScript Arrays 
+*Thougths:* Begging challege |  
+| :-----: |
+| **Day 2: 12_april_2022, tuesday** | 
+*Today's Progress:* Today is the moment of functions in JavaScript 
+*Thoughts:* continuing |
