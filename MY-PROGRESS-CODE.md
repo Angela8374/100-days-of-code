@@ -11,14 +11,19 @@
 ## 100 Days Of Code to create a programming habit- Log 
 
 **DAY 01: ---> 11_april_2022 -> monday**
-- **Today's Progress: -->** Practicing JavaScript Arrays 
-- **Thougths: ---------->** Begging challenge   
+- **Today's Progress: -->** Practicing JavaScript Arrays. 
+- **Thougths: ---------->** Begging challenge. 
 - **Link(s) to work: --->** [Example_tittle](http://www.no-example-at-the-moment.com)
 
 **DAY 02: ---> 12_april_2022 -> tuesday**
-- **Today's Progress: -->** Today is the moment of functions in JavaScript 
-- **Thoughts: ---------->** Continuing day a day, step by step
+- **Today's Progress: -->** Today is the moment of functions in JavaScript .
+- **Thoughts: ---------->** Continuing day a day, step by step.
   
 **DAY 03: ---> 13_april_2022 -> Wednesday**
-- **Today's Progress: -->** ----------
-- **Thoughts: ---------->** ----------
+- **Today's Progress: -->** Methods for arrays.
+- **Thoughts: ---------->** We are in Semana Santa in Spain. Today has been a rough day for me. Many time in front of my computer. Studying about 25 methods to handle arrays. Tomorrow I will develop some example.
+- **Link(1) to work: --->** [Arrays_methods_MDN](https://developer.mozilla.org/es/docs/Web/JavaScript/Reference/Global_Objects/Array)
+- https://developer.mozilla.org/es/docs/Web/JavaScript/Reference/Global_Objects/Array
+- **Link(2) to work: --->** [25_Arrays_methods](https://dev.to/gdcodev/25-metodos-de-arrays-en-javascript-que-todo-desarrollador-debe-conocer-4a2d)
+  
+

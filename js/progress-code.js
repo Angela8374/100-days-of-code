@@ -49,5 +49,9 @@
 // let cube = map(f, numbers);
 // console.log(cube);
 
-
+/////////////////////////
+// DIA-3 Array Methods //
+/////////////////////////
+// Today is a web research day on array methods
+// I need to review and study, not everything is coding code
 
