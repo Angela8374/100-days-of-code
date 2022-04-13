@@ -23,7 +23,6 @@
 - **Today's Progress: -->** Methods for arrays.
 - **Thoughts: ---------->** We are in Semana Santa in Spain. Today has been a rough day for me. Many time in front of my computer. Studying about 25 methods to handle arrays. Tomorrow I will develop some example.
 - **Link(1) to work: --->** [Arrays_methods_MDN](https://developer.mozilla.org/es/docs/Web/JavaScript/Reference/Global_Objects/Array)
-- https://developer.mozilla.org/es/docs/Web/JavaScript/Reference/Global_Objects/Array
 - **Link(2) to work: --->** [25_Arrays_methods](https://dev.to/gdcodev/25-metodos-de-arrays-en-javascript-que-todo-desarrollador-debe-conocer-4a2d)
   
 
