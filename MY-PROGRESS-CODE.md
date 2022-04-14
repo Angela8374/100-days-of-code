@@ -1,4 +1,4 @@
-# Welcome to my challenge of << 100_days_of_code >>
+# Welcome to my challenge of << 100_days_of_code >>. This is my first step to 1.000_days_of_code, and the next step will be... to get the master's degree.
 
 ## This repository consists of:
 - Successfully lead and publicly commit to programming for at least 1 hour a day for 100 consecutive days.
@@ -8,7 +8,7 @@
 1. Code at least one hour every day for the next 100 days, with the possibility of failure one time in 15 days
 2. Tweet my progress every day with the hashtag #100DaysOfCode.
 
-## 100 Days Of Code to create a programming habit- Log 
+## 100 Days_Of_Code to create a programming habit- Log 
 
 **DAY 01: ---> 11_april_2022 -> monday**
 - **Today's Progress: -->** Practicing JavaScript Arrays. 
@@ -25,4 +25,6 @@
 - **Link(1) to work: --->** [Arrays_methods_MDN](https://developer.mozilla.org/es/docs/Web/JavaScript/Reference/Global_Objects/Array)
 - **Link(2) to work: --->** [25_Arrays_methods](https://dev.to/gdcodev/25-metodos-de-arrays-en-javascript-que-todo-desarrollador-debe-conocer-4a2d)
   
-
+**DAY 04: ---> 14_april_2022 -> Thursday**
+- **Today's Progress: -->** Experimenting with the concat method
+- **Thoughts: ---------->** There are many methods to work and doing experiments and I have chosen this one

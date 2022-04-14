@@ -55,3 +55,47 @@
 // Today is a web research day on array methods
 // I need to review and study, not everything is coding code
 
+/////////////////////////////////////////////////
+// DIA-4 Experimenting with the concat method //
+////////////////////////////////////////////////
+// let name1 = "John ";
+// let surname = "Smith ";
+// let age = 29;
+
+//forma-1 using template strings
+// let unido1 = `1- In several days, ${name1} ${surname} will be ${age} years old`;
+// console.log(unido1);
+
+//form-2 using classical forms with operator " + "
+// let unido2 = "2- In several days, " + name1 + " " + surname + " will be " + age + " years old";
+// console.log(unido2);
+
+//form-3 curious variant using the operator " += "
+// let unido3 = "3- In several days, ";
+// unido3 += name1;
+// unido3 += surname;
+// unido3 += "will be ";
+// unido3 += age;
+// unido3 += " years old"
+// console.log(unido3);
+
+//form-4 using first alert and second console.log
+// let resultado = "4- In several days, ";
+// resultado = resultado.concat(name1);
+// resultado = resultado.concat(" ");
+// resultado = resultado.concat(surname);
+// resultado = resultado.concat(" will be ");
+// resultado = resultado.concat(age);
+// resultado = resultado.concat(" years old");
+// alert(resultado);
+// console.log(resultado);
+
+//form-5 concatenate inside console.log
+// console.log("5- In several days, " + name1 + " " + surname + " will be " + age + " years old.")
+
+//form-6 concatenate using arrays
+// const array1 = ['6- In several days,'];
+// const array2 = ['John', 'Smith', 'will','be'];
+// const array3 = ['29', 'years', 'old'];
+// const array4 = array1.concat(array2, array3);
+// console.log(array4);
