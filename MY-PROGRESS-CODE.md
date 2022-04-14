@@ -27,4 +27,8 @@
   
 **DAY 04: ---> 14_april_2022 -> Thursday**
 - **Today's Progress: -->** Experimenting with the concat method
-- **Thoughts: ---------->** There are many methods to work and doing experiments and I have chosen this one
+- **Thoughts: ---------->** There are many methods to work and doing experiments and I have chosen this one.
+
+**DAY 05: ---> 15_april_2022 -> Friday**
+- **Today's Progress: -->** Arrow functions (funciones flecha)
+- **Thoughts: ---------->** If the day 2 I studied functions, at this moment is arrow funtions. These are another very simple and concise syntax to create functions.

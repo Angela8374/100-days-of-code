@@ -1,5 +1,5 @@
 //////////////////////////////
-// DIA-1 Practicando ARRAYS //
+// DIA-1 Practicing ARRAYS //
 //////////////////////////////
 
 //let frutas = [2,4,6,"manzanas","peras","naranjas"]; //Arrya 2 tipos
@@ -28,7 +28,7 @@
 // }
 
 /////////////////////////////////
-// DIA-2 Practicando FUNCTIONS //
+// DIA-2 Practicing functions  //
 /////////////////////////////////
 // function suma(a,b) {
 //   return a+b;
@@ -55,7 +55,7 @@
 // Today is a web research day on array methods
 // I need to review and study, not everything is coding code
 
-/////////////////////////////////////////////////
+////////////////////////////////////////////////
 // DIA-4 Experimenting with the concat method //
 ////////////////////////////////////////////////
 // let name1 = "John ";
@@ -97,5 +97,43 @@
 // const array1 = ['6- In several days,'];
 // const array2 = ['John', 'Smith', 'will','be'];
 // const array3 = ['29', 'years', 'old'];
-// const array4 = array1.concat(array2, array3);
+// const array4 = array1.concat(array2).concat(array3);
 // console.log(array4);
+
+/////////////////////////////
+// DIA-5  Arrows functions //
+/////////////////////////////
+
+// FORMA-1 Evolving traditional function to arrow function //
+
+// Form_1 Step_1
+//   function (a, b){
+//     return a + b + 100;
+//   }
+
+// Form_1 Setp_2 Envolving code to arrow function
+//   // Función flecha
+//   (a, b) => a + b + 100;
+  
+//   Form_2 Step_1 Traditional function (without arguments)
+//   let a = 4;
+//   let b = 2;
+//   function (){
+//     return a + b + 100;
+//   }
+  
+//   Form_2 Step_2 Envolving code to arrow function (without arguments)
+//   let a = 4;
+//   let b = 2;
+//   () => a + b + 100;
+
+
+// FORM-2 Arrow function //
+
+// let age = prompt("What is your age?", 18);
+
+// let welcome = (age < 18) ?
+//   () => alert('You aren`t have experience in life') :
+//   () => alert("you have experience in life!");
+
+// welcome();
