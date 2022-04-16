@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>function inside other function</title>
+  </head>
+  <body>
+<!-- First I create an event that triggers the execution of the rest of the code -->
+    <button id="btn">CLICK HERE</button>
+
+    <script>
+
+    // Function inside other function 
+      (function () {
+        document.getElementById("btn").addEventListener("click", function () {
+          console.log("You clicked on me");
+        });
+      // Executing second function with delay time "5 seg" ( setTimeout )
+        setTimeout(function () {
+          console.log("Hi... How are you!?");
+        }, 5000);
+      })();
+
+    </script>
+  </body>
+</html>
+

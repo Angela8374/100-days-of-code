@@ -32,3 +32,7 @@
 **DAY 05: ---> 15_april_2022 -> Friday**
 - **Today's Progress: -->** Arrow functions (funciones flecha)
 - **Thoughts: ---------->** If the day 2 I studied functions, at this moment is arrow funtions. These are another very simple and concise syntax to create functions.
+
+**DAY 06: ---> 16_april_2022 -> Saturday**
+- **Today's Progress: -->** Practice JavaScript in HTLM using a function inside other function
+- **Thoughts: ---------->** Studing Full Stack Web Development is necesary practice HTML, CSS and JavaScript in perfect harmony. Today practice Javascript code in HTML.
