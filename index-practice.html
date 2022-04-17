@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+<!-- <!DOCTYPE html>
 <html lang="en">
   <head>
     <meta charset="UTF-8" />
@@ -7,7 +7,7 @@
     <title>function inside other function</title>
   </head>
   <body>
-<!-- First I create an event that triggers the execution of the rest of the code -->
+  // First I create an event that triggers the execution of the rest of the code 
     <button id="btn">CLICK HERE</button>
 
     <script>
@@ -25,5 +25,40 @@
 
     </script>
   </body>
+</html> -->
+
+<!-- DIA-7 -->
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>to declare objects with functions</title>
+  </head>
+  <body>
+    <!--  <script src="js/app2.js"></script> -->
+
+    <script>
+      // To declare objects with functions
+      function Tutor (name, surname) {
+        this.name = name;
+        this.saludar = function () {
+          console.log("Hello every one!! I'm... " + this.name);
+        }
+        if (typeof surname !== "undefined") {
+          this.full_name = name + " " + surname;
+        }
+       
+      }
+      /* an instance of an object is created by invoking than function with the 
+       "new" operator */
+      var mary = new Tutor("Mary","Smith");
+      mary.saludar();
+      console.log(mary.full_name);
+
+    </script>
+  </body>
 </html>
+
 

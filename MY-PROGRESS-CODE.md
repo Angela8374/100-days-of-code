@@ -36,3 +36,9 @@
 **DAY 06: ---> 16_april_2022 -> Saturday**
 - **Today's Progress: -->** Practice JavaScript in HTLM using a function inside other function
 - **Thoughts: ---------->** Studing Full Stack Web Development is necesary practice HTML, CSS and JavaScript in perfect harmony. Today practice Javascript code in HTML.
+
+**DAY 07: ---> 17_april_2022 -> Sunday**
+- **Today's Progress: -->** Practice declare objects with functions
+- **Thoughts: ---------->** Practice declare objects with functions and 5 other ways to create objects in JavaScript
+- **Link(1) to work: --->** [MDN_web_docs_Working_with_objects](https://developer.mozilla.org/es/docs/Web/JavaScript/Guide/Working_with_Objects)
+- **Link(2) to work: --->** [web_Deusto_free_formation](https://www.deustoformacion.com/blog/programacion-tic/5-formas-crear-objetos-javascript)
