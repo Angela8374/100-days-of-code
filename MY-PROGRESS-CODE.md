@@ -42,3 +42,7 @@
 - **Thoughts: ---------->** Practice declare objects with functions and 5 other ways to create objects in JavaScript
 - **Link(1) to work: --->** [MDN_web_docs_Working_with_objects](https://developer.mozilla.org/es/docs/Web/JavaScript/Guide/Working_with_Objects)
 - **Link(2) to work: --->** [web_Deusto_free_formation](https://www.deustoformacion.com/blog/programacion-tic/5-formas-crear-objetos-javascript)
+
+**DAY 08: ---> 18_april_2022 -> Monday**
+- **Today's Progress: -->** Practice Prototype JavaScript
+- **Thoughts: ---------->** Nothing to declare. Day 8
