@@ -46,3 +46,7 @@
 **DAY 08: ---> 18_april_2022 -> Monday**
 - **Today's Progress: -->** Practice Prototype JavaScript
 - **Thoughts: ---------->** Nothing to declare. Day 8
+
+**DAY 09: ---> 19_april_2022 -> Tuesday**
+- **Today's Progress: -->** Getters and Setters using
+- **Thoughts: ---------->** It's necesary to practice a little more of all practice the knowledges. Day 9

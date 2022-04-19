@@ -61,4 +61,39 @@
   </body>
 </html> -->
 
+/* //////////////////////////////////////////////////// */
 
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Getters & Setters using</title>
+  </head>
+  <body>
+    <script>
+        // DAY 09: ---> 19_april_2022 -> Tuesday
+        // Using Getters & Setters
+      var study = {
+        tittle: "Getters and Setters JavaScript",
+        way: 01,
+        student: "Michael",
+        // get
+        getStudent: function () {
+          return this.student.toUpperCase();
+        },
+        //set
+        setStudent: function (student) {
+            if (student === "" || (typeof student === "undefined")) {
+                return;
+            }
+          this.student = student;
+        },
+      };
+      study.setStudent("Angela");
+      console.log(study.getStudent());
+      
+    </script>
+  </body>
+</html>
